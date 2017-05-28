@@ -1,0 +1,12 @@
+{
+    "name": "register-chain",
+    "version": "1.0.0",
+    "description": "",
+    "private": true,
+    "main": "board.js",
+    "author": "Lee Moran",
+    "license": "ISC",
+    "dependencies": {
+        "johnny-five": "^0.10.13"
+    }
+}
